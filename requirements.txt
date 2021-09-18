@@ -1,13 +1,12 @@
 numpy==1.20.1
 pandas==1.2.2
-scikit-learn==0.24.1
+sklearn==0.24.1
 typing
 pandas
-re
-string
 numpy
 sklearn
 pymorphy2
 natasha
 xgboost
 scipy
+
